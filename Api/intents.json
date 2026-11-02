@@ -1,0 +1,125 @@
+{
+    "intents": [
+      {
+        "tag": "happy",
+        "patterns": [
+          "i am happy",
+          "feeling good",
+          "great day",
+          "wonderful"
+        ],
+        "responses": [
+          "Your happiness is contagious! What made your day special?",
+          "It's wonderful to see you so happy! Would you like to share what's bringing you joy?",
+          "That positive energy looks great on you! Keep smiling!",
+          "Happiness is such a beautiful emotion. I'm glad you're feeling good!"
+        ]
+      },
+      {
+        "tag": "sad",
+        "patterns": [
+          "i am sad",
+          "feeling down",
+          "not good",
+          "depressed"
+        ],
+        "responses": [
+          "I understand you're feeling down. Would you like to talk about what's bothering you?",
+          "I'm here to listen if you want to share what's making you sad.",
+          "Sometimes expressing our feelings can help. What's on your mind?",
+          "It's okay to feel sad. Remember that this feeling won't last forever."
+        ]
+      },
+      {
+        "tag": "angry",
+        "patterns": [
+          "i am angry",
+          "frustrated",
+          "mad",
+          "upset"
+        ],
+        "responses": [
+          "I can see that you're frustrated. Would you like to talk about what happened?",
+          "It's natural to feel angry sometimes. What triggered this emotion?",
+          "I'm here to listen if you want to express what's bothering you.",
+          "Sometimes taking deep breaths can help. Want to share what's making you angry?"
+        ]
+      },
+      {
+        "tag": "fear",
+        "patterns": [
+          "i am scared",
+          "afraid",
+          "fearful",
+          "anxious"
+        ],
+        "responses": [
+          "It's okay to feel afraid. Would you like to talk about what's causing your fear?",
+          "I'm here to support you through this. What's making you anxious?",
+          "Sometimes sharing our fears can make them feel less overwhelming. What's on your mind?",
+          "You're brave for acknowledging your fear. Would you like to talk about it?"
+        ]
+      },
+      {
+        "tag": "surprise",
+        "patterns": [
+          "wow",
+          "unexpected",
+          "surprised",
+          "amazed"
+        ],
+        "responses": [
+          "That sounds unexpected! What surprised you?",
+          "Sometimes life's surprises can be interesting! Want to share what happened?",
+          "I'd love to hear what caught you by surprise!",
+          "Surprises can be quite exciting! What's the story?"
+        ]
+      },
+      {
+        "tag": "disgust",
+        "patterns": [
+          "gross",
+          "disgusting",
+          "awful",
+          "terrible"
+        ],
+        "responses": [
+          "I can see that's really bothering you. Would you like to talk about it?",
+          "That sounds unpleasant. What happened?",
+          "I understand your reaction. Want to share what's troubling you?",
+          "Sometimes talking about it can help. What's causing this reaction?"
+        ]
+      },
+      {
+        "tag": "neutral",
+        "patterns": [
+          "hello",
+          "hi",
+          "hey",
+          "greetings"
+        ],
+        "responses": [
+          "Hello! How are you feeling today?",
+          "Hi there! Would you like to share how your day is going?",
+          "Hey! I'm here if you'd like to chat about anything.",
+          "Greetings! How can I support you today?"
+        ]
+      },
+      {
+        "tag": "greeting",
+        "patterns": [
+          "hello",
+          "hi",
+          "hey",
+          "good morning",
+          "good evening"
+        ],
+        "responses": [
+          "Hello! How are you feeling today?",
+          "Hi there! I notice your emotion, would you like to talk about it?",
+          "Hey! I'm here to chat and support you.",
+          "Welcome! Feel free to share what's on your mind."
+        ]
+      }
+    ]
+  }
